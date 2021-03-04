@@ -2,7 +2,6 @@ package com.ps;
 
 import java.util.HashMap;
 import java.util.Map;
-import org.junit.Test;
 
 /**
  * Main class.
@@ -16,7 +15,7 @@ public class ExercisesTest {
     /**
      * Method to run tests.
      */
-    @Test
+    //@Test
     public void runTests() {
         simpleFibonacci(INT_TO_CHAR);
     }
